@@ -50,6 +50,44 @@ An interactive design concept was created in Figma to visualize the proposed stu
 
 🔗 [Explore the PNU Gate Figma Design](https://www.figma.com/design/SXm08tTweh2M7DvyYToEN1/PNU-Gate?node-id=0-1)
 
+
+### 📱 UI/UX Prototype Gallery
+
+<p align="center">
+  <img src="screenshots/welcome.png" width="30%">
+  <img src="screenshots/home.png" width="30%">
+  <img src="screenshots/schedule.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="screenshots/tasks-assignments.png" width="30%">
+  <img src="screenshots/grades.png" width="30%">
+  <img src="screenshots/ai-assistant.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="screenshots/communication.png" width="30%">
+  <img src="screenshots/student-id.png" width="30%">
+</p>
+
+### 📊 Project Management Artifacts
+
+The following artifacts demonstrate the project's
+planning, scheduling, team coordination, and
+risk management approach.
+
+#### Work Breakdown Structure (WBS)
+![WBS](project-management/wbs.png)
+
+#### Gantt Chart
+![Gantt Chart](project-management/gantt-chart.png)
+
+#### RACI Matrix
+![RACI Matrix](project-management/raci-matrix.png)
+
+#### Risk Register
+![Risk Register](project-management/risk-register.png)
+
 ## 🏆 Academic Recognition
 
 The project received full marks. The instructor particularly praised the initiative to incorporate prototyping, the clarity of the presentation, and the team's coordinated delivery.
